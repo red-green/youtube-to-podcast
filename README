@@ -1,0 +1,5 @@
+Dependencies:
+
+- pytube
+- python-feedgen
+- ffmpeg or avconv
